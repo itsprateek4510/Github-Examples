@@ -1,3 +1,6 @@
+name : scheduleworkflow
+
+
 on:
   schedule:
     - cron: '*/1 * * * *'
